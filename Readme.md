@@ -1,0 +1,3 @@
+- Need install global peer: sudo npm i -g peer
+- Then: peerjs --port 3001
+- And, for finish: npm run dev
